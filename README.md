@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Tomorrow's+Digital+Frontier;⚡+Transforming+Quantum+Ideas+Into+Reality;🎯+Code+%7C+Create+%7C+Conquer+%7C+Evolve;🌟+Next-Gen+Solutions+for+Digital+Natives" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🚀+Building+Tomorrow's+Digital+Frontier;⚡+Transforming+Quantum+Ideas+Into+Reality;🎯+Code+%7C+Create+%7C+Conquer+%7C+Evolve;🌟+Next-Gen+Solutions+for+Digital+Natives" alt="Typing SVG" />
 </div>
 
 ---
@@ -197,7 +197,7 @@ const quantumMission = {
 ### 💼 Professional Hub
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139&labelColor=000000)](https://devv-codes.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:contact@devv-codes.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://devv-codes.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://devs-code-theta.vercel.app/)
 
 </div>
 
@@ -298,22 +298,21 @@ graph TD
 ## 📊 Real-Time Quantum Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/devv-codes?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata&config.display=large&config.theme=dark&config.title=Live+Analytics" alt="Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devv-codes&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=000000" alt="Live Analytics" />
 </div>
 
 ### 🌟 Visitor Quantum Counter
 <div align="center">
-  <img src="https://profile-counter.glitch.me/devv-codes/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=devv-codes&color=00ffff&style=for-the-badge&label=QUANTUM+VISITORS" alt="Visitor Count" />
   <br>
   <sub><i>🌟 Quantum visitors from across the multiverse! 🌟</i></sub>
 </div>
 
 ---
 
-## 🌟 Visitor Counter
-
+## 🌟 Total Engagement
 <div align="center">
-  <img src="https://profile-counter.glitch.me/devv-codes/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=devv-codes-total&color=ff00ff&style=for-the-badge&label=TOTAL+ENGAGEMENT" alt="Visitor Count" />
   <br>
   <sub><i>🌟 Thanks for visiting! 🌟</i></sub>
 </div>
@@ -338,7 +337,7 @@ graph TD
 
 ### 🌌 Interactive Terminal
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=60&lines=➜+~+npm+install+quantum-success;➜+~+git+push+origin+main;➜+~+docker+run+--rm+it+quantum;➜+~+kubernetes+apply+-f+manifest.yaml" alt="Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=➜+~+npm+install+quantum-success;➜+~+git+push+origin+main;➜+~+docker+run+--rm+it+quantum;➜+~+kubernetes+apply+-f+manifest.yaml" alt="Terminal" />
 </div>
 
 ---
